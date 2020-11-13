@@ -6,6 +6,8 @@
 
 - Download
 
+  - [Standard Table](https://bhpan.buaa.edu.cn:443/link/4FAACE342BEBE7C03ABF6A214E7BA4D0)
+
   - [One Time Transformation](https://bhpan.buaa.edu.cn:443/link/72DE7EB2640E97EAE4393D3F4003A7E6)
 
   - [More Time Transformation](https://bhpan.buaa.edu.cn:443/link/723356D8FFA70C87800061509B5014FD)
